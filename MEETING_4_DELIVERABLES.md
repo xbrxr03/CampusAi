@@ -721,12 +721,12 @@ If time is too tight, keep changes small and still make sure the final pushed wo
 
 ### Abrar
 
-- [ ] LangChain integrated into backend
-- [ ] Knowledge base loaded into ChromaDB
-- [ ] Ollama connected to the RAG pipeline
-- [ ] `/api/chat` returns real AI responses
-- [ ] Source citations returned with each response
-- [ ] Basic integration tests passing
+- [x] LangChain integrated into backend
+- [x] Knowledge base loaded into ChromaDB
+- [x] Ollama connected to the RAG pipeline
+- [x] `/api/chat` returns real AI responses
+- [x] Source citations returned with each response
+- [x] Basic integration tests passing
 
 ### Mathew
 
