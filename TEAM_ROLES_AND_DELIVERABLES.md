@@ -63,11 +63,11 @@
 - Software Requirements Specification (Meeting 3)
 - Draft PRD (Meeting 2)
 - Draft SRS (Meeting 2)
-- Final Report (Meeting 5) *(with Nairobi)*
+- Final Report (Meeting 5) *(with Nahirobies)*
 
 ---
 
-## Nairobi
+## Nahirobies
 **Role:** QA & Presentation Lead
 
 ### Responsibilities

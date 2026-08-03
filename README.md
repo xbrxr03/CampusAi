@@ -208,7 +208,7 @@ For detailed architecture information, see [ARCHITECTURE.md](docs/ARCHITECTURE.m
 | AI Research Lead | Mathew | Knowledge base curation, RAG setup |
 | UI/UX Lead | Syed | Frontend development, user interface |
 | Documentation Lead | Mark | Project documentation, requirements |
-| QA & Presentation Lead | Nairobi | Testing, presentation materials |
+| QA & Presentation Lead | Nahirobies | Testing, presentation materials |
 
 See [TEAM_ROLES_AND_DELIVERABLES.md](TEAM_ROLES_AND_DELIVERABLES.md) for full details.
 

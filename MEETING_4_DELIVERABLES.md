@@ -15,9 +15,9 @@
 | **Mathew** | AI Research Lead | Finalize knowledge base accuracy, source metadata, retrieval QA | CRITICAL |
 | **Syed** | UI/UX Lead | Real chat frontend connected to `/api/chat` | HIGH |
 | **Mark** | Documentation Lead | Finalize PRD/SRS, create API.md, update board, start Final Report | HIGH |
-| **Nairobi** | QA and Presentation Lead | Finalize Charter, 80% slides, Test Plan, demo script, start integration testing | HIGH |
+| **Nahirobies** | QA and Presentation Lead | Finalize Charter, 80% slides, Test Plan, demo script, start integration testing | HIGH |
 
-**Dependency chain**: Mathew's knowledge quality -> Abrar's RAG backend -> Syed's frontend demo -> Nairobi's integration testing and demo rehearsal. Mark's docs run in parallel but must match what is actually built.
+**Dependency chain**: Mathew's knowledge quality -> Abrar's RAG backend -> Syed's frontend demo -> Nahirobies's integration testing and demo rehearsal. Mark's docs run in parallel but must match what is actually built.
 
 ---
 
@@ -210,7 +210,7 @@ Recommended proof by role:
 - Mathew: `knowledge/RETRIEVAL_TEST_LOG.md` with at least 20 questions.
 - Syed: screenshot or local demo of the chat UI hitting the real backend.
 - Mark: committed docs files that match live backend behavior.
-- Nairobi: committed test plan, demo script, and first-round integration notes.
+- Nahirobies: committed test plan, demo script, and first-round integration notes.
 
 ---
 
@@ -590,7 +590,7 @@ Finalize project documentation against the actual implementation.
 
 ---
 
-## Nairobi - QA and Presentation Lead
+## Nahirobies - QA and Presentation Lead
 
 ### Goal
 
@@ -673,7 +673,7 @@ Prepare for demo day and start integration testing.
 
 **Deliverable**: First-pass integration testing is underway and findings are recorded.
 
-### Success Criteria for Nairobi
+### Success Criteria for Nahirobies
 
 - Team can rehearse the presentation.
 - Test plan and demo script exist and are usable.
@@ -700,7 +700,7 @@ Mathew's metadata format must match Abrar's loader expectations. Use the YAML fr
 - Abrar's backend is ready enough for the rest of the team to work against now.
 - Mathew should improve metadata and retrieval quality before final QA.
 - Syed should build against the live `/api/chat` contract in this document.
-- Nairobi's meaningful integration testing depends on Syed connecting the frontend.
+- Nahirobies's meaningful integration testing depends on Syed connecting the frontend.
 - Mark should document what is live, not what was originally planned.
 
 ### GitHub
@@ -787,7 +787,7 @@ If time is too tight, keep changes small and still make sure the final pushed wo
 - [ ] Final Report started
   - Create `docs/FINAL_REPORT.md` with skeleton sections: project summary, objectives, what was built, tech stack, team contributions, challenges, results, future work
 
-### Nairobi
+### Nahirobies
 
 - [ ] Project Charter finalized
   - Create `docs/PROJECT_CHARTER.md` — confirm scope, constraints, stakeholders, and objectives still match the actual project; get team sign-off before Meeting 4

@@ -14,7 +14,7 @@ the six "must have" MVP items from Meeting 1.
 
 ## 1. Design Direction
 
-Before writing code, here's the visual identity so the whole team (and Nairobi's
+Before writing code, here's the visual identity so the whole team (and Nahirobies's
 slides) stay consistent.
 
 **Concept:** A college front-desk, not a generic chatbot. The tone should feel like
@@ -40,7 +40,7 @@ Every AI answer gets a small circular "seal" badge next to its source citation
 (like an embossed university stamp), instead of a generic link icon. This is the
 one recognizable visual detail tying the whole product back to the "verified
 college information" pitch from the problem statement, and it doubles as the
-QA hook for Nairobi (easy to point to during testing/demo: "see, it's cited").
+QA hook for Nahirobies (easy to point to during testing/demo: "see, it's cited").
 
 **Layout concept**
 ```

@@ -13,7 +13,7 @@
 | **Mathew** | AI Research Lead | Knowledge Base + ChromaDB Setup | ✅ MERGED (PR #4) | CRITICAL |
 | **Syed** | UI/UX Lead | User Stories + Frontend Design System | ✅ MERGED (PR #3) | HIGH |
 | **Mark** | Documentation Lead | Project Board + Finalize Docs | 🔄 IN PROGRESS | HIGH |
-| **Nairobi** | QA & Presentation Lead | Project Charter + Slides | 🔄 IN PROGRESS | HIGH |
+| **Nahirobies** | QA & Presentation Lead | Project Charter + Slides | 🔄 IN PROGRESS | HIGH |
 
 ---
 
@@ -381,7 +381,7 @@ Send a chat message to the AI assistant.
 
 ---
 
-## 🎤 NAIROBI - QA & PRESENTATION LEAD (DUE JULY 30)
+## 🎤 NAHIROBIES - QA & PRESENTATION LEAD (DUE JULY 30)
 
 ### Deliverable: Project Charter & Presentation Slides
 
@@ -504,7 +504,7 @@ Send a chat message to the AI assistant.
 
 ---
 
-### Success Criteria for Nairobi:
+### Success Criteria for Nahirobies:
 
 - ✅ Project Charter finalized & signed off
 - ✅ Presentation slides completed (15-17 slides)
@@ -535,14 +535,14 @@ Send a chat message to the AI assistant.
 
 ### 🔄 In Progress (Due July 30)
 - Mark: Finalizing documentation + Project board setup
-- Nairobi: Preparing presentation slides + demo script
+- Nahirobies: Preparing presentation slides + demo script
 
 ### Day 3 (July 30) - MEETING DAY (8:30 PM)
 - **Abrar**: Prepare RAG integration demo
 - **Mathew**: Demo ChromaDB + knowledge base retrieval
 - **Syed**: Demo design system + user stories
 - **Mark**: Present project board + documentation
-- **Nairobi**: Presentation slides ready
+- **Nahirobies**: Presentation slides ready
 - **All**: Live Demo + Progress Update
 
 ---
@@ -593,7 +593,7 @@ Send a chat message to the AI assistant.
 - ⏳ API documentation complete
 - ⏳ All pushed to GitHub
 
-### 🔄 Nairobi (QA & Presentation) - IN PROGRESS
+### 🔄 Nahirobies (QA & Presentation) - IN PROGRESS
 - ⏳ Project Charter signed off
 - ⏳ Presentation slides complete (15-17 slides)
 - ⏳ Demo script tested
